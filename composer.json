@@ -1,0 +1,23 @@
+{
+    "name": "riftfox/wechat-js-code-to-session",
+    "description": "微信小程序JsCode登录接口",
+    "type": "library",
+    "require": {
+        "riftfox/wechat-session": "dev",
+        "psr/http-client": "@dev",
+        "psr/http-factory": "@dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Riftfox\\Wechat\\JsCodeToSession\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riftfox",
+            "email": "riftfox@riftfox.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
