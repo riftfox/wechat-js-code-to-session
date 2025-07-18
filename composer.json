@@ -3,7 +3,7 @@
     "description": "微信小程序JsCode登录接口",
     "type": "library",
     "require": {
-        "riftfox/wechat-session": "dev",
+        "riftfox/wechat-session": "@dev",
         "psr/http-client": "@dev",
         "psr/http-factory": "@dev"
     },
